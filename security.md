@@ -9,7 +9,7 @@ The **🛠️ KMS Utility Hub** is the complete collection of every activation u
 
 <div align="center">
 
-[![Download KMS Utility Hub](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-hub)
+[![Download KMS Utility Hub](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-hub)
 
 </div>
 
@@ -108,7 +108,7 @@ You need different tools for different activation scenarios. One tool for Window
 5. **📋 Browse the menu** — all 20+ utilities listed
 6. **🔢 Select a tool** — click to launch
 
-[![Download KMS Utility Hub](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-hub)
+[![Download KMS Utility Hub](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-hub)
 
 ### Unified Launcher Menu
 
@@ -230,7 +230,7 @@ Every activation utility ever created. One hub. **KMS Utility Hub** bundles 20+ 
 
 <div align="center">
 
-[![Download KMS Utility Hub](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-utility-hub)
+[![Download KMS Utility Hub](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-utility-hub)
 
 **Version 4.0.0** — Complete utilities collection. Free forever.
 
